@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Research Assistant Professor #Address. Contacts. Moto. Etc.
+subtitle: <a href='https://www.bu.edu'>Boston University</a>. Research Assistant Professor #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
