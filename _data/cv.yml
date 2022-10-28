@@ -72,6 +72,7 @@
 	- Ecosystem-based (Fisheries) management.
 	- Ecosystem assessment for marine spatial planning.
 	- title: Global Change Biology
+	  items:
 		- Water quality in aquatic ecosystems.
 		- Physical-biological coupling.
     - title: Data science methods
@@ -81,6 +82,7 @@
     - title: Mathematical biology through nonlinear dynamical systems.
       items:
         - title: Causal interaction in biological systems.
+	  items:
 		- Scaling across time, space, and level of organization.
         - Resilience and state transitions.
     - title: Broader Connections
