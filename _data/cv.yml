@@ -44,7 +44,7 @@
       description:
         - SERDP RC-2509
         - NSF DEB-1655203
-	- NSF DBI-1660584
+        - NSF DBI-1660584
 
 - title: Open Source Projects
   type: time_table
@@ -58,25 +58,25 @@
   contents:
     - title: Data science for conservation and management.
       items:
-	- Ecosystem-based (Fisheries) management.
-	- Ecosystem assessment for marine spatial planning.
-	- title: Global Change Biology
-	  items:
-		- Water quality in aquatic ecosystems.
-		- Physical-biological coupling.
+    - Ecosystem-based (Fisheries) management.
+    - Ecosystem assessment for marine spatial planning.
+    - title: Global Change Biology
+      items:
+        - Water quality in aquatic ecosystems.
+        - Physical-biological coupling.
     - title: Data science methods
         - Empirical Dynamic Modeling.
         - <i>Glass box</i> machine learning. 
-	- Causal inference from time-series data.
+    - Causal inference from time-series data.
     - title: Mathematical biology through nonlinear dynamical systems.
       items:
         - title: Causal interaction in biological systems.
-	  items:
-		- Scaling across time, space, and level of organization.
+      items:
+        - Scaling across time, space, and level of organization.
         - Resilience and state transitions.
     - title: Broader Connections
-	- Systems biology
-	- Seasonal epidemics
+    - Systems biology
+    - Seasonal epidemics
 
 - title: Other Interests
   type: list
