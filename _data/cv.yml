@@ -7,23 +7,23 @@
     - name: Languages
       value: English
 
-- title: Education
-  type: time_table
-  contents:
-    - title: Ph.D., Biological Oceanography
-      institution: University of California, San Diego, CA
-      year: 2015
-      description:
-        - Dissertation Topic Nonlinear forecasting as a tool for sustainable, ecosystem-based fisheries management.
-        - Advisor George Sugihara
-     - title: M.S., Marine Biology
-      institution: University of California, San Diego, CA
-      year: 2012
-     - title: M.Sci., Applied Mathematics
-      institution: Churchill College, University of Cambridge, UK
-      Year: 2009
-     - title: B.A., Physics
-      institution: Swarthmore College, PA
+#- title: Education
+#  type: time_table
+#  contents:
+#    - title: Ph.D., Biological Oceanography
+#      institution: University of California, San Diego, CA
+#      year: 2015
+#      description:
+#        - Dissertation Topic Nonlinear forecasting as a tool for sustainable, ecosystem-based fisheries management.
+#        - Advisor George Sugihara
+#     - title: M.S., Marine Biology
+#      institution: University of California, San Diego, CA
+#      year: 2012
+#     - title: M.Sci., Applied Mathematics
+#      institution: Churchill College, University of Cambridge, UK
+#      Year: 2009
+#     - title: B.A., Physics
+#      institution: Swarthmore College, PA
 
 - title: Experience
   type: time_table
@@ -52,17 +52,6 @@
     - title: <a href="https://github.com/SugiharaLab/rEDM">rEDM</a>
       year: 2018-now
       description: Applications of Empirical Dynamic Modeling from Time Series 
-
-#- title: Honors and Awards
-#  type: time_table
-#  contents:
-#    - year: 1921
-#      items: 
-#        - Nobel Prize in Physics 
-#        - Matteucci Medal
-#    - year: 2029
-#      items: 
-#        - Max Planck Medal
 
 - title: Academic Interests
   type: nested_list
@@ -93,3 +82,14 @@
   type: list
   contents:
     - <u>Hobbies:</u> Parenthood, Music, Vegetarian Cooking
+
+#- title: Honors and Awards
+#  type: time_table
+#  contents:
+#    - year: 1921
+#      items: 
+#        - Nobel Prize in Physics 
+#        - Matteucci Medal
+#    - year: 2029
+#      items: 
+#        - Max Planck Medal
