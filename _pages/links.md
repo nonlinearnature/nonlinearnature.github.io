@@ -8,15 +8,19 @@ nav_order: 6
 ---
 
 <div class="card">
-Interested in Collaborating?
-
-- Undergraduates at BU, check out:
-    * <a href="https://www.bu.edu/urop/">UROP</a>
-- Undergraduates outside off BU, check out:
+  <div class="card-body">
+     <h5 class="card-title">Interested in Collaborating?</h5>
+  </div>
+  <ul class="list-group list-group-flush">
+    <li class="list-group-item"> Undergraduates at BU, check out:
+    * <a href="https://www.bu.edu/urop/">UROP</a> </li>
+    <li class="list-group-item"> Undergraduates outside off BU, check out:
     * The <a href="https://sites.bu.edu/britereu/">BRITE REU</a>
-- Prospective Graduate Students, check out:
+</li>
+    <li class="list-group-item"> Prospective Graduate Students, check out:
     * <a href="https://sites.bu.edu/urban/">URBAN Program</a>
-    * <a href="https://www.bu.edu/bio-geo/">Biogeoscience Program</a>
+    * <a href="https://www.bu.edu/bio-geo/">Biogeoscience Program</a> </li>
+	</ul>
 </div>
 
 &nbsp;  
