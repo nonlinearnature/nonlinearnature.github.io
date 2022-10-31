@@ -4,7 +4,7 @@ title: Coral Reef Restoration & Spatiotemporal Data Science
 description: Current Project
 img: assets/img/12.jpg
 importance: 1
-category: Current
+category: Ongoing
 ---
 
 Motivating Questions:

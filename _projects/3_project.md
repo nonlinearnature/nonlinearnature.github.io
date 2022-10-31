@@ -5,7 +5,7 @@ description: Current Project
 img: assets/img/7.jpg
 #redirect: https://unsplash.com
 importance: 3
-category: Current
+category: Ongoing
 ---
 
 - Ecological Networks

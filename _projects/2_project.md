@@ -4,7 +4,7 @@ title: Ecosystem Based Management & Emergent Ecological Interaction
 description: Current Project
 img: assets/img/3.jpg
 importance: 2
-category: Current
+category: Ongoing
 ---
 
 <a href="https://www.bu.edu/earth/2022/09/12/bu-joins-boem-nooa-to-support-ecosystem-based-development-on-the-us-outer-continental-shelf/">Press Release<\a>
