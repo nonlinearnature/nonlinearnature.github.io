@@ -7,13 +7,6 @@
     - name: Languages
       value: English
 
-- title: Education
- type: time_table
- contents:
-   - title: Ph.D., Biological Oceanography
-     institution: University of California, San Diego, CA
-     year: 2015
-
 - title: Experience
   type: time_table
   contents:
