@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Ecosystem Based Management & Emergent Ecological Interaction
-description: Current Project
-img: assets/img/3.jpg
+description: (Current Project)
+img: assets/img/joshua-j-cotten-tern-unsplash.jpg
 importance: 2
 category: Ongoing
 ---
@@ -14,3 +14,6 @@ The project goal is to develop framework and deploy integrated solutions to "min
 Motivating Questions:
 
 - What are the essential interactions across space and time that shape ecosystem functioning tied to human values and decisions?
+
+
+Photo by <a href="https://unsplash.com/@jcotten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Joshua J. Cotten</a> on <a href="https://unsplash.com/s/photos/%22least-tern%22?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

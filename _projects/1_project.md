@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Coral Reef Restoration & Spatiotemporal Data Science
-description: Current Project
+title: Coral Reef Restoration & Spatio- temporal Data Science
+description: (Current Project)
 img: assets/img/karl-callwood-coral-unsplash.jpg
 importance: 1
 category: Ongoing

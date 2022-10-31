@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Water Quality in Aquatic Ecosystems
-description: Past Project of Continuing Interest
+description: (Past Project of Continuing Interest)
 img:
 importance: 6
 category: Past
