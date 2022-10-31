@@ -60,6 +60,15 @@ blockquote {
   text-align: center;
 }
 
+// Box
+
+.boxBorder {
+     border: 2px solid #990066;
+     padding: 10px;
+     outline: #990066 solid 5px;
+     outline-offset: 5px;
+   }
+
 // Card
 
 .card {

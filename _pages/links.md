@@ -2,7 +2,7 @@
 layout: page
 permalink: /links/
 title: links
-description: Links to programs and collaborators
+description: (links to programs and collaborators)
 nav: true
 nav_order: 6
 ---

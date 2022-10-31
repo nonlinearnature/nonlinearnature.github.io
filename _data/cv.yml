@@ -65,7 +65,8 @@
       items:
         - Water quality in aquatic ecosystems.
         - Physical-biological coupling.
-    - title: Data science methods
+    - title: Data science methods.
+      Items:
         - Empirical Dynamic Modeling.
         - <i>Glass box</i> machine learning. 
     - Causal inference from time-series data.
