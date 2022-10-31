@@ -22,6 +22,13 @@ body.sticky-bottom-footer {
   padding-bottom: 0;
 }
 
+.boxBorder {
+     border: 2px solid #990066;
+     padding: 10px;
+     outline: #990066 solid 5px;
+     outline-offset: 5px;
+   }
+
 .container {
   max-width: $max-content-width;
 }

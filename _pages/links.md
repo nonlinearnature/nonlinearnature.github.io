@@ -7,6 +7,7 @@ nav: true
 nav_order: 6
 ---
 
+<div class="boxBorder">
 Interested in Collaborating?
 
 - Undergraduates at BU, check out:
@@ -16,6 +17,7 @@ Interested in Collaborating?
 - Prospective Graduate Students, check out:
     * <a href="https://sites.bu.edu/urban/">URBAN Program</a>
     * <a href="https://www.bu.edu/bio-geo/">Biogeoscience Program</a>
+</div>
 
 ## Research Groups:
 
