@@ -7,6 +7,19 @@
     - name: Languages
       value: English
 
+- title: Education
+  type: time_table
+  contents:
+    - title: Ph.D., Biological Oceanography
+      institution: University of California, San Diego
+      year: 2015
+      description:
+        - Dissertation Topic - Linear forecasting as a tool for sustainable, ecosystem-based management.
+        - Advisor - George Sugihara
+    - title: M.S., Marine Biology
+      institution: University of California, San Diego
+      year: 2012
+
 - title: Experience
   type: time_table
   contents:
