@@ -59,8 +59,8 @@
   contents:
     - title: Data science for conservation and management.
       items:
-    - Ecosystem-based (Fisheries) management.
-    - Ecosystem assessment for marine spatial planning.
+        - Ecosystem-based (Fisheries) management.
+        - Ecosystem assessment for marine spatial planning.
     - title: Global Change Biology
       items:
         - Water quality in aquatic ecosystems.
@@ -76,8 +76,8 @@
         - Scaling across time, space, and level of organization.
         - Resilience and state transitions.
     - title: Broader Connections
-    - Systems biology
-    - Seasonal epidemics
+        - Systems biology
+        - Seasonal epidemics
 
 - title: Other Interests
   type: list
