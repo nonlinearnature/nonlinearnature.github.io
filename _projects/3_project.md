@@ -8,10 +8,11 @@ importance: 3
 category: Ongoing
 ---
 
-- Ecological Networks
+- Generalizability of methods and inference across biological systems:
+    * Ecological Networks
 
-- Gene Expression Networks
+    * Gene Expression Networks
 
-- Human physiology
+    * Human physiology
 
-# How does identifying these interactions further understanding of state transitions?
+- How does identifying these interactions further understanding of state transitions and dynamic regimes?

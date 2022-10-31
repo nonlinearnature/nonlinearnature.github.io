@@ -2,7 +2,7 @@
 layout: page
 title: Coral Reef Restoration & Spatiotemporal Data Science
 description: Current Project
-img: assets/img/12.jpg
+img: assets/img/karl-callwood-coral-unsplash.jpg
 importance: 1
 category: Ongoing
 ---
@@ -13,6 +13,9 @@ Motivating Questions:
 
 - Inductive approach to modeling benthic community interactions and identifying nonlinear feedbacks.
 
-	When is restoration “complete”?
+- When is restoration “complete”?
 
 - How can we predict and affect trajectories of recovery across dimensions of reef ecosystem services and fundamental ecosystem health?
+
+
+Photo credit to <a href="https://unsplash.com/@climatechangevi">Karl Callwood</a>.
