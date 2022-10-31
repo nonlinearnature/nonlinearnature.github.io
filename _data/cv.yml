@@ -2,11 +2,17 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Ethan R. Deyle
+    - pronouns: <i>He/Him/His</i>
     - name: Languages
-      value: English, German
+      value: English
+
+- title: Education
+ type: time_table
+ contents:
+   - title: Ph.D., Biological Oceanography
+     institution: University of California, San Diego, CA
+     year: 2015
 
 - title: Experience
   type: time_table
