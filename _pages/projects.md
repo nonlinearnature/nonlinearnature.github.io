@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Collection of projects.
+description: (Ongoing and past projects)
 nav: true
 nav_order: 2
 display_categories: [Ongoing, Past]
