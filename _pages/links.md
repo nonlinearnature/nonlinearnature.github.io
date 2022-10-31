@@ -21,10 +21,14 @@ Interested in Collaborating?
 
 - <a href="https://www.chansmodels.org/">CHANS: Coupled Human And Natural Systems</a>
 - <a href="https://deepeco.ucsd.edu/">Sugihara Lab</a>
+    * <a href="https://github.com/SugiharaLab">SugiharaLab</a> (github)
+    * <a href="https://cran.r-project.org/web/packages/rEDM/index.html">rEDM</a> (CRAN)
+    * <a href="https://pypi.org/project/pyEDM/">pyEDM</a> (PyPI)
 
 ## Affiliated programs (BU):
 
-- <a href=""></a>
+- <a href="https://www.bu.edu/biology/">Boston University Department of Biology</a>
+    * <a href="https://www.bu.edu/biology/research/ecology-behavior-and-evolution/">Ecology, Behavior & Evolution</a>
 - <a href="https://www.bu.edu/bump/">Boston University Marine Program</a>
 - <a href=""></a>
 - <a href="https://www.bu.edu/igs/">Institute for Global Sustainability</a>
@@ -34,22 +38,18 @@ Interested in Collaborating?
 
 - <a href="https://www.microbu.org/">Microbiome Initiative</a?
 - <a href="https://sites.bu.edu/urban/">URBAN program</a>
+- <a href="https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/">Computing & Data Sciences</a>
+
+## Even more programs (non-BU):
+
+- <a href="https://100islandchallenge.org/">100 Island Challenge</a>
+- <a href="http://fragmentsofhope.org/">Fragments of Hope</a>, Belize
 
 
 ## Collaborators:
 
-"Sugihara":
-  - firstname: ["George", "G."]
-    url: https://deepeco.ucsd.edu/sugihara/
-
-"Kaufman":
-  - firstname: ["Les", "L.", "L. S.", "LS"]
-    url: https://www.bu.edu/biology/people/profiles/les-kaufman/
-
-"Gopal":
-  - firstname: ["Sucharita", "Suchi", "S."]
-    url: https://www.bu.edu/earth/profiles/sucharita-gopal/
-
-"Rotjan": 
-  - firstname: ["Randi", "R."]
-    url: https://sites.bu.edu/rotjanlab/
+- <a href="https://deepeco.ucsd.edu/sugihara/">George Sugihara</a>
+- <a href="https://www.bu.edu/biology/people/profiles/les-kaufman/">Les Kaufman</a>
+- <a href="https://www.bu.edu/earth/profiles/sucharita-gopal/">Suchi Gopal</a>
+- <a href="https://sites.bu.edu/rotjanlab/">Randi Rotjan</a>
+- <a href="https://sandinlab.ucsd.edu/">Stuart Sandin</a>
