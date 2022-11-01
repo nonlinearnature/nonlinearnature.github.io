@@ -43,7 +43,7 @@ nav_order: 6
 
 ## More programs (BU):
 
-- <a href="https://www.microbu.org/">Microbiome Initiative</a?
+- <a href="https://www.microbu.org/">Microbiome Initiative</a>
 - <a href="https://sites.bu.edu/urban/">URBAN program</a>
 - <a href="https://www.bu.edu/cds-faculty/programs-admissions/phd-degree/">Computing & Data Sciences</a>
 
