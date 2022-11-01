@@ -13,14 +13,13 @@ nav_order: 6
   </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"> Undergraduates at BU, check out:
-    * <a href="https://www.bu.edu/urop/">UROP</a> </li>
+    <a href="https://www.bu.edu/urop/">UROP</a> </li>
     <li class="list-group-item"> Undergraduates outside off BU, check out:
-    * The <a href="https://sites.bu.edu/britereu/">BRITE REU</a>
-</li>
+    The <a href="https://sites.bu.edu/britereu/">BRITE REU</a> </li>
     <li class="list-group-item"> Prospective Graduate Students, check out:
-    * <a href="https://sites.bu.edu/urban/">URBAN Program</a>
-    * <a href="https://www.bu.edu/bio-geo/">Biogeoscience Program</a> </li>
-	</ul>
+    <a href="https://sites.bu.edu/urban/">URBAN Program</a>,
+    <a href="https://www.bu.edu/bio-geo/">Biogeoscience Program</a> </li>
+  </ul>
 </div>
 
 &nbsp;  
@@ -38,7 +37,7 @@ nav_order: 6
 - <a href="https://www.bu.edu/biology/">Boston University Department of Biology</a>
     * <a href="https://www.bu.edu/biology/research/ecology-behavior-and-evolution/">Ecology, Behavior & Evolution</a>
 - <a href="https://www.bu.edu/bump/">Boston University Marine Program</a>
-- <a href=""></a>
+- <a href="https://www.bu.edu/pardee/">The Frederick S. Pardee Center for the Study of the Longer-Range Future</a>
 - <a href="https://www.bu.edu/igs/">Institute for Global Sustainability</a>
 - <a href="https://www.bu.edu/bio-geo/">Biogeoscience Program</a>
 
