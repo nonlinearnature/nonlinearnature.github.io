@@ -33,8 +33,10 @@
       institution: Department of Biology, Boston University
       year: 2019 - present
       description:
-        - Ecology, Behavior, and Evolution
-        - title: Affiliations
+        - title: Primary Affiliation
+          contents:
+            - Ecology, Behavior, and Evolution
+        - title: Additioonal Affiliations
           contents:
             - Boston University Marine Program
             - BU CHANS
@@ -61,6 +63,7 @@
       items:
         - Ecosystem-based (Fisheries) management.
         - Ecosystem assessment for marine spatial planning.
+        - Ecological forecasting for restoration.
     - title: Global Change Biology
       items:
         - Water quality in aquatic ecosystems.
@@ -69,14 +72,15 @@
       Items:
         - Empirical Dynamic Modeling.
         - <i>Glass box</i> machine learning. 
-    - Causal inference from time-series data.
+        - Causal inference from time-series data.
     - title: Mathematical biology through nonlinear dynamical systems.
       items:
         - title: Causal interaction in biological systems.
       items:
         - Scaling across time, space, and level of organization.
-        - Resilience and state transitions.
+        - Resilience and state transitions beyond assumptions of stability.
     - title: Broader Connections
+      items:
         - Systems biology
         - Seasonal epidemics
 
