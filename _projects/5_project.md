@@ -2,7 +2,7 @@
 layout: page
 title: Seasonal Epidemics
 description: (Past Project of Continuing Interest)
-img: assets/img/wavefunction-influenza-hypotheses-evo_1.jpg
+img: assets/img/wave-function-influenza-hypotheses-sq.jpg
 importance: 3
 category: Past
 ---
