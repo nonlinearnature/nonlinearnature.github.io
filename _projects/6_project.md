@@ -2,7 +2,7 @@
 layout: page
 title: Water Quality in Aquatic Ecosystems
 description: (Past Project of Continuing Interest)
-img:
+img: assets/img/gouache-water-quality-evo_1.jpg
 importance: 6
 category: Past
 ---
