@@ -2,11 +2,9 @@
 layout: page
 title: Seasonal Epidemics
 description: (Past Project of Continuing Interest)
-img: assets/img/1.jpg
+img: assets/img/influenza-hypotheses.jpg
 importance: 3
 category: Past
 ---
 
-- Dengue
-
-- Influenza
+In temperate latitudes, identification of the environmental drivers behind epidemics can be confounded by the mutual correlation between a broad set of hypothesized causal variables. In contrast, the low or altogether absent correlation between hypothesized causes and effects in tropical latitudes can obscure the presence of physical-biological coupling. EDM analysis has teased apart conflicting hypotheses and led to improvements in actionable forecasts for both influenza and dengue.
