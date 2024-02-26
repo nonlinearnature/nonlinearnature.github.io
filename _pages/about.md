@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-The <a href='https://sites.bu.edu/galileco/'>Kaufman-Deyle</a> Systems Ecology Lab <br><a href='https://www.bu.edu'>Boston University</a>. Research Assistant Professor #Address. Contacts. Moto. Etc.
+subtitle: The <a href='https://sites.bu.edu/galileco/'>Kaufman-Deyle</a> Systems Ecology Lab <br><a href='https://www.bu.edu'>Boston University</a>. Research Assistant Professor #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
