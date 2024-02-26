@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.bu.edu'>Boston University</a>. Research Assistant Professor #Address. Contacts. Moto. Etc.
+subtitle: 
+The <a href='https://sites.bu.edu/galileco/'>Kaufman-Deyle</a> Systems Ecology Lab <br><a href='https://www.bu.edu'>Boston University</a>. Research Assistant Professor #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -17,8 +18,6 @@ news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-
-The <a href='https://sites.bu.edu/galileco/'>Kaufman-Deyle</a> Systems Ecology Lab
 
 **Domains of Interest:** Quantitative Ecology, Environmental Data Science, Nonlinear Dynamics, Applied Complex Systems, Marine Ecology.
 
