@@ -1,0 +1,180 @@
+I"<!-- pages/projects.md -->
+<div class="projects">
+  <!-- Display categorized projects -->
+  <h2 class="category">Ongoing</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid"><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/1_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/karl-callwood-coral-unsplash-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/karl-callwood-coral-unsplash-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/karl-callwood-coral-unsplash-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/karl-callwood-coral-unsplash.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Coral Reef Restoration &amp; Spatio- temporal Data Science</h2>
+          <p class="card-text">(Current Project)</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/2_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/joshua-j-cotten-tern-unsplash-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/joshua-j-cotten-tern-unsplash-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/joshua-j-cotten-tern-unsplash-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/joshua-j-cotten-tern-unsplash.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Ecosystem Based Management &amp; Emergent Ecological Interaction</h2>
+          <p class="card-text">(Current Project)</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/3_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/abstract-physiological-interaction-web-motif-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/abstract-physiological-interaction-web-motif-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/abstract-physiological-interaction-web-motif-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/abstract-physiological-interaction-web-motif.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Nonlinear Causal Interaction in Biological Systems</h2>
+          <p class="card-text">(Current Project)</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/4_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/origami-anchovy-nightcafe-evo_5-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/origami-anchovy-nightcafe-evo_5-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/origami-anchovy-nightcafe-evo_5-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/origami-anchovy-nightcafe-evo_5.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Fisheries Oceanography &amp; Physical Biological Coupling</h2>
+          <p class="card-text">(Continuing Interest)</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div>
+  <h2 class="category">Past</h2>
+  <!-- Generate cards for each project -->
+  <div class="grid"><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/5_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/wave-function-influenza-hypotheses-sq-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/wave-function-influenza-hypotheses-sq-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/wave-function-influenza-hypotheses-sq-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/wave-function-influenza-hypotheses-sq.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Seasonal Epidemics</h2>
+          <p class="card-text">(Past Project of Continuing Interest)</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div><!-- _includes/projects.html -->
+<div class="grid-sizer"></div>
+<div class="grid-item">
+  <a href="/projects/6_project/">
+      <div class="card hoverable"><figure>
+
+  <picture>
+    
+    <source class="responsive-img-srcset" media="(max-width: 480px)" srcset="/assets/img/gouache-water-quality-evo_1-480.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 800px)" srcset="/assets/img/gouache-water-quality-evo_1-800.webp" />
+    <source class="responsive-img-srcset" media="(max-width: 1400px)" srcset="/assets/img/gouache-water-quality-evo_1-1400.webp" />
+    
+
+    <!-- Fallback to the original file -->
+    <img src="/assets/img/gouache-water-quality-evo_1.jpg" width="auto" height="auto" alt="project thumbnail" onerror="this.onerror=null; $('.responsive-img-srcset').remove();" />
+
+  </picture>
+
+</figure>
+
+        <div class="card-body">
+          <h2 class="card-title text-lowercase">Water Quality in Aquatic Ecosystems</h2>
+          <p class="card-text">(Past Project of Continuing Interest)</p>
+          <div class="row ml-1 mr-1 p-0">
+          </div>
+        </div>
+      </div>
+    </a>
+</div>
+  </div></div>
+:ET

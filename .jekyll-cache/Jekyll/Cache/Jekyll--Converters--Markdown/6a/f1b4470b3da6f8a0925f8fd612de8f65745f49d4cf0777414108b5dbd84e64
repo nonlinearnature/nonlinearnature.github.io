@@ -1,0 +1,1309 @@
+I"*�<!-- _pages/publications.md -->
+<div class="publications">
+  <h2 class="year">2025</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="krasnow2025making" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Making the Most of Available Data: A Case Study of Converging Analyses to Model an Emerging Fishery for Jonah Crab (Cancer borealis)</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Ruby Krasnow,&nbsp;<a href="https://www.bu.edu/biology/people/profiles/les-kaufman/">Les Kaufman</a>,&nbsp;and&nbsp;<em>Ethan Deyle</em></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Fish and Fisheries</em> 2025
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="stallings2025examining" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Examining the successional role of Montipora aequituberculata on remote, post-disturbance equatorial reefs</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Brenna Stallings,&nbsp;Clinton Edwards,&nbsp;Nicole Pedersen, and
+            <span class="more-authors" title="click to view 7 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '7 more authors' ? 'Tyler Chidsey, Ethan Deyle, Les Kaufman, Peter Gawne, Sangeeta Mangubhai, Stuart Sandin, Randi Rotjan' : '7 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">7 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Marine Ecology Progress Series</em> 2025
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="ianniello2025stress" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Stress in the City: Disentangling multi-stressor effects on an urbanized coral in a changing ocean</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Caroline F Ianniello,&nbsp;Grace Beery,&nbsp;Ta-Hung Denny Chen, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'Ethan Deyle, Wendy Heiger-Bernays, Itasca Motter, Justin S McAlister, Randi D Rotjan' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Marine Pollution Bulletin</em> 2025
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2024</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="stern2024stress" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Stress Drives Soccer Athletes’ Wellness and Movement: Using Convergent Cross-Mapping to Identify Causal Relationships in a Dynamic Environment</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Benjamin D Stern,&nbsp;Ethan R Deyle,&nbsp;Eric J Hegedus, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Stephan B Munch, Erik Saberski' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>International Journal of Sports Physiology and Performance</em> 2024
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="WHITE2024101005" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Spatial planning offshore wind energy farms in California for mediating fisheries and wildlife conservation impacts</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Crow White,&nbsp;Yi-Hi Wang,&nbsp;Ryan K. Walter, and
+            <span class="more-authors" title="click to view 6 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '6 more authors' ? 'Benjamin I. Ruttenberg, Danny Han, Eli Newman, Ethan R. Deyle, Sucharita Gopal, Les Kaufman' : '6 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">6 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Environmental Development</em> 2024
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="saberski2024impact" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">The impact of data resolution on dynamic causal inference in multiscale ecological networks</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Erik Saberski,&nbsp;Tom Lorimer,&nbsp;Delia Carpenter, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'Ethan Deyle, Ewa Merz, Joseph Park, Gerald M Pao, George Sugihara' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Communications Biology</em> 2024
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2022</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="deyle2022hybrid" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">A hybrid empirical and parametric approach for managing ecosystem complexity: Water quality in Lake Geneva under nonstationary futures</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Ethan R Deyle,&nbsp;Damien Bouffard,&nbsp;Victor Frossard, and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'Robert Schwefel, John Melack, George Sugihara' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">3 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Proceedings of the National Academy of Sciences</em> 2022
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2021</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="giron2021environmental" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Environmental variability and fishing effects on the Pacific sardine fisheries in the Gulf of California</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Alfredo Giron-Nava,&nbsp;Exequiel Ezcurra,&nbsp;Antoine Brias, and
+            <span class="more-authors" title="click to view 6 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '6 more authors' ? 'Enriqueta Velarde, Ethan Deyle, Andrés M Cisneros-Montemayor, Stephan B Munch, George Sugihara, Octavio Aburto-Oropeza' : '6 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">6 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Canadian Journal of Fisheries and Aquatic Sciences</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="nova2021susceptible" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Susceptible host availability modulates climate effects on dengue dynamics</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Nicole Nova,&nbsp;Ethan R Deyle,&nbsp;Marta S Shocket, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'Andrew J MacDonald, Marissa L Childs, Martin Rypdal, George Sugihara, Erin A Mordecai' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Ecology letters</em> 2021
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2020</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="sguotti2020non" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Non-linearity in stock–recruitment relationships of Atlantic cod: insights from a multi-model approach</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Camilla Sguotti,&nbsp;Saskia A Otto,&nbsp;Xochitl Cormon, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'Karl M Werner, Ethan Deyle, George Sugihara, Christian Möllmann' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>ICES Journal of Marine Science</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="giron2020circularity" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Circularity in fisheries data weakens real world prediction</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Alfredo Giron-Nava,&nbsp;Stephan B Munch,&nbsp;Andrew F Johnson, and
+            <span class="more-authors" title="click to view 6 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '6 more authors' ? 'Ethan Deyle, Chase C James, Erik Saberski, Gerald M Pao, Octavio Aburto-Oropeza, George Sugihara' : '6 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">6 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Scientific reports</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="chang2020long" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Long-term warming destabilizes aquatic ecosystems through weakening biodiversity-mediated causal networks</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Chun-Wei Chang,&nbsp;Hao Ye,&nbsp;Takeshi Miki, and
+            <span class="more-authors" title="click to view 8 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '8 more authors' ? 'Ethan R Deyle, Sami Souissi, Orlane Anneville, Rita Adrian, Yin-Ru Chiang, Satoshi Ichise, Michio Kumagai,  others' : '8 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">8 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Global Change Biology</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="natsukawa2020visual" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">A visual analytics approach for ecosystem dynamics based on empirical dynamic modeling</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Hiroaki Natsukawa,&nbsp;Ethan R Deyle,&nbsp;Gerald M Pao, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Koji Koyamada, George Sugihara' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>IEEE Transactions on Visualization and Computer Graphics</em> 2020
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2019</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="runge2019inferring" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Inferring causation from time series in Earth system sciences</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Jakob Runge,&nbsp;Sebastian Bathiany,&nbsp;Erik Bollt, and
+            <span class="more-authors" title="click to view 8 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '8 more authors' ? 'Gustau Camps-Valls, Dim Coumou, Ethan Deyle, Clark Glymour, Marlene Kretschmer, Miguel D Mahecha, Jordi Muñoz-Marı́,  others' : '8 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">8 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Nature communications</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="giron2019data" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Data circularity masks fisheries recruitment predictability</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          ALFREDO GIRON-NAVA,&nbsp;GEORGE SUGIHARA,&nbsp;ANFREW F JOHNSON, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'ETHAN DEYLE, STEVE MUNCH, CHASE C JAMES, ERIK SABERSKI, OCTAVIO ABURTO-OROPEZA' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Uncovering the complex dynamics of socio-environmental fisheries management</em> 2019
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2018</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="tsonis2018convergent" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Convergent cross mapping: theory and an example</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Anastasios A Tsonis,&nbsp;Ethan R Deyle,&nbsp;Hao Ye, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'George Sugihara' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Advances in nonlinear geosciences</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="ushio2018fluctuating" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Fluctuating interaction network and time-varying stability of a natural fish community</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Masayuki Ushio,&nbsp;Chih-hao Hsieh,&nbsp;Reiji Masuda, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'Ethan R Deyle, Hao Ye, Chun-Wei Chang, George Sugihara, Michio Kondoh' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Nature</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="deyle2018ecosystem" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Ecosystem-based forecasts of recruitment in two menhaden species</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          <em>Ethan Deyle</em>,&nbsp;Amy M Schueller,&nbsp;Hao Ye, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Gerald M Pao, George Sugihara' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Fish and Fisheries</em> 2018
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2017</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="sugihara2017reply" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Reply to Baskerville and Cobey: Misconceptions about causation with synchrony and seasonal drivers</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          <a href="https://deepeco.ucsd.edu/sugihara/">George Sugihara</a>,&nbsp;Ethan R Deyle,&nbsp;and&nbsp;Hao Ye</div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Proceedings of the National Academy of Sciences</em> 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="mcgowan2017predicting" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Predicting coastal algal blooms in southern California</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          John A McGowan,&nbsp;Ethan R Deyle,&nbsp;Hao Ye, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'Melissa L Carter, Charles T Perretti, Kerri D Seger, Alain Verneil, George Sugihara' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Ecology</em> 2017
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2016</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="deyle2016global" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Global environmental drivers of influenza</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Ethan R Deyle,&nbsp;M Cyrus Maher,&nbsp;Ryan D Hernandez, and
+            <span class="more-authors" title="click to view 2 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '2 more authors' ? 'Sanjay Basu, George Sugihara' : '2 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">2 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Proceedings of the National Academy of Sciences</em> 2016
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="deyle2016tracking" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Tracking and forecasting ecosystem interactions in real time</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Ethan R Deyle,&nbsp;Robert M May,&nbsp;Stephan B Munch, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'George Sugihara' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Proceedings of the Royal Society B: Biological Sciences</em> 2016
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2015</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="clark2015spatial" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Spatial convergent cross mapping to detect causal relationships from short time series</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Adam Thomas Clark,&nbsp;Hao Ye,&nbsp;Forest Isbell, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'Ethan R Deyle, Jane Cowles, G David Tilman, George Sugihara' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Ecology</em> 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="van2015causal" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Causal feedbacks in climate change</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Egbert H Van Nes,&nbsp;Marten Scheffer,&nbsp;Victor Brovkin, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'Timothy M Lenton, Hao Ye, Ethan Deyle, George Sugihara' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Nature Climate Change</em> 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="ye2015distinguishing" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Distinguishing time-delayed causal interactions using convergent cross mapping</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Hao Ye,&nbsp;Ethan R Deyle,&nbsp;Luis J Gilarranz, and
+            <span class="more-authors" title="click to view 1 more author" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '1 more author' ? 'George Sugihara' : '1 more author';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">1 more author</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Scientific reports</em> 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="tsonis2015dynamical" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Dynamical evidence for causality between galactic cosmic rays and interannual variation in global temperature</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Anastasios A Tsonis,&nbsp;Ethan R Deyle,&nbsp;Robert M May, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'George Sugihara, Kyle Swanson, Joshua D Verbeten, Geli Wang' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Proceedings of the National Academy of Sciences</em> 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="ye2015reply" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Reply to Luo et al.: Robustness of causal effects of galactic cosmic rays on interannual variation in global temperature</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Hao Ye,&nbsp;<a href="https://deepeco.ucsd.edu/sugihara/">George Sugihara</a>,&nbsp;Ethan R Deyle, and
+            <span class="more-authors" title="click to view 3 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '3 more authors' ? 'Robert M May, Kyle Swanson, Anastasios A Tsonis' : '3 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">3 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Proceedings of the National Academy of Sciences</em> 2015
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2014</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="liu2014modeling" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Modeling dynamic interactions and coherence between marine zooplankton and fishes linked to environmental variability</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Hui Liu,&nbsp;Michael J Fogarty,&nbsp;Jonathan A Hare, and
+            <span class="more-authors" title="click to view 5 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '5 more authors' ? 'Chih-hao Hsieh, Sarah M Glaser, Hao Ye, Ethan Deyle, George Sugihara' : '5 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">5 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Journal of Marine Systems</em> 2014
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2013</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="deyle2013predicting" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Predicting climate effects on Pacific sardine</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Ethan R Deyle,&nbsp;Michael Fogarty,&nbsp;Chih-hao Hsieh, and
+            <span class="more-authors" title="click to view 6 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '6 more authors' ? 'Les Kaufman, Alec D MacCall, Stephan B Munch, Charles T Perretti, Hao Ye, George Sugihara' : '6 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">6 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Proceedings of the National Academy of Sciences</em> 2013
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2012</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="sugihara2012detecting" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Detecting causality in complex ecosystems</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          <a href="https://deepeco.ucsd.edu/sugihara/">George Sugihara</a>,&nbsp;Robert May,&nbsp;Hao Ye, and
+            <span class="more-authors" title="click to view 4 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '4 more authors' ? 'Chih-hao Hsieh, Ethan Deyle, Michael Fogarty, Stephan Munch' : '4 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">4 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>science</em> 2012
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+  <h2 class="year">2011</h2>
+  <ol class="bibliography"><li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="sugihara2011exploited" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Are exploited fish populations stable?</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          <a href="https://deepeco.ucsd.edu/sugihara/">George Sugihara</a>,&nbsp;John Beddington,&nbsp;Chih-hao Hsieh, and
+            <span class="more-authors" title="click to view 8 more authors" onclick="
+                  var element = $(this);
+                  element.attr('title', '');
+                  var more_authors_text = element.text() == '8 more authors' ? 'Ethan Deyle, Michael Fogarty, Sarah M Glaser, Roger Hewitt, Anne Hollowed, Robert M May, Stephan B Munch,  others' : '8 more authors';
+                  var cursorPosition = 0;
+                  var textAdder = setInterval(function(){
+                    element.text(more_authors_text.substring(0, cursorPosition + 1));
+                    if (++cursorPosition == more_authors_text.length){
+                      clearInterval(textAdder);
+                    }
+                }, '10');
+                ">8 more authors</span></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Proceedings of the National Academy of Sciences</em> 2011
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li>
+<li><!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"></div>
+
+        <!-- Entry bib key -->
+        <div id="deyle2011generalized" class="col-sm-8">
+        
+          <!-- Title -->
+          <div class="title">Generalized theorems for nonlinear state space reconstruction</div>
+          <!-- Author -->
+          <div class="author">
+          
+
+          Ethan R Deyle,&nbsp;and&nbsp;<a href="https://deepeco.ucsd.edu/sugihara/">George Sugihara</a></div>
+
+          <!-- Journal/Book title and date -->
+          
+          <div class="periodical">
+            <em>Plos one</em> 2011
+          </div>
+        
+          <!-- Links/Buttons -->
+          <div class="links">
+          </div>
+
+          
+        </div>
+      </div>
+</li></ol>
+
+
+</div>
+:ET
