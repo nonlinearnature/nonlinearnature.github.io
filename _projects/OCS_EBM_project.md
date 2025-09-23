@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Ecosystem Based Management & Emergent Ecological Interaction
-description: (Current Project)
+description: (Past Project)
 img: assets/img/joshua-j-cotten-tern-unsplash.jpg
 importance: 2
-category: Ongoing
+category: Past
 ---
 
 <a href="https://www.bu.edu/earth/2022/09/12/bu-joins-boem-nooa-to-support-ecosystem-based-development-on-the-us-outer-continental-shelf/">Press Release</a>
