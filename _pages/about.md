@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Domains of Interest:** Quantitative Ecology, Environmental Data Science, Nonlinear Dynamics, Applied Complex Systems, Marine Ecology.
 
-**Subjects:** Empirical Dynamic Modeling, Ecological Forecasting, Coupled Human-Natural Systems, Physical-Biological Coupling, Causal Inference, Resilience, Ecosystem-Based (Fisheries) Management, Global change biology.
+**Subjects:** Empirical Dynamic Modeling, Ecological Forecasting, Coupled Human-Natural Systems, Physical-Biological Coupling, Causal Inference, Resilience, Ecosystem-Based (Fisheries) Management, Global Change Biology.
 
 
 

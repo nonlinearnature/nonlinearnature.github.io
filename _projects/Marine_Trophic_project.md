@@ -2,7 +2,7 @@
 layout: page
 title: Trophic Ecology and Marine Food Webs
 description: (Continuing Interest)
-img: assets/img/firefly-fish-net.jpg
+img: assets/img/polar_fishnet_plot.jpg
 importance: 4
 category: Ongoing
 ---
