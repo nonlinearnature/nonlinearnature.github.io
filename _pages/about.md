@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: The <a href='https://sites.bu.edu/galileco/'>Kaufman-Deyle</a> Systems Ecology Lab <br><a href='https://www.bu.edu'>Boston University</a>. Research Assistant Professor #Address. Contacts. Moto. Etc.
+subtitle: Research Assistant Professor of Biology #Address. Contacts. Moto. Etc.
 
 profile:
   align: right
@@ -10,8 +10,8 @@ profile:
   image_circular: true # crops the image to make it circular
   address: >
     <p>Department of Biology</p>
-    <p>Boston University</p>
-    <p>Boston, MA 02215</p>
+    <p>Tufts University</p>
+    <p>Medford, MA 02155</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,5 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Subjects:** Empirical Dynamic Modeling, Ecological Forecasting, Coupled Human-Natural Systems, Physical-Biological Coupling, Causal Inference, Resilience, Ecosystem-Based (Fisheries) Management, Global Change Biology.
 
+**Affiliations:** The <a href='https://sites.tufts.edu/rotjanlab/'>Rotjan Marine Ecology Lab </a> <br>Tufts University</a>
+The <a href='https://sites.bu.edu/galileco/'>Kaufman(-Deyle)</a> Systems Ecology Lab <br>Boston University.
 
 
