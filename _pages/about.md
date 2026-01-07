@@ -22,6 +22,7 @@ social: true  # includes social icons at the bottom of the page
 
 **Subjects:** Empirical Dynamic Modeling, Ecological Forecasting, Coupled Human-Natural Systems, Physical-Biological Coupling, Causal Inference, Resilience, Ecosystem-Based (Fisheries) Management, Global Change Biology.
 
-**Affiliations:** The <a href='https://sites.bu.edu/galileco/'>Kaufman-Deyle</a> Systems Ecology Lab <br><a href='https://www.bu.edu'>Boston University</a>
+**Affiliations:** The <a href='https://sites.tufts.edu/rotjanlab/'>Rotjan Marine Ecology Lab </a> <br>Tufts University</a>
+The <a href='https://sites.bu.edu/galileco/'>Kaufman(-Deyle)</a> Systems Ecology Lab <br>Boston University.
 
 
